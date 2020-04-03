@@ -1,0 +1,11 @@
+---
+extends:
+ - standard
+ - standard-react
+parser: babel-eslint
+globals:
+ wx: null
+ App: null
+ Page: null
+ getApp: null
+ Component: null
